@@ -54,9 +54,8 @@ py teste_anexo.py
 Foram utilizados os dados na própria plataforma MySQL, pórem deixei como arquivo VSC para também caso queira ter acesso a plataforma IDE.
 
 #
-4. TESTE DE API
-![image](https://github.com/user-attachments/assets/8ed576a1-ea54-4d75-b9c7-eb45c851d904)
-
+4. TESTE DE API<br>
+![image](https://github.com/user-attachments/assets/8ed576a1-ea54-4d75-b9c7-eb45c851d904)<br>
 
 (Neste teste foram ultilizados React.js e Javascript, porém não foi concluído para a amostra dos resultados de busca textual na lista de cadastros de operadoras, a busca para a API foi com um arquivo CSV.)
  ```
