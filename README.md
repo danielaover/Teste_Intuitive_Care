@@ -45,8 +45,12 @@ py teste_anexo.py
 ```
 #
 3. TESTE DE BANCO DE DADOS
+![image](https://github.com/user-attachments/assets/b6a71f4e-151a-4dd1-842b-e53bfcb44cc0) <br>
+Foram utilizados os dados na própria plataforma MySQL, pórem deixei como arquivo VSC para também caso queira ter acesso a plataforma IDE.
+
 #
-Foram utilizados os dados na própria plataforma MySQL, pórem deixei como arquivo vsc para também caso queira ter acesso a plataforma IDE.
+4. TESTE DE API
+
 
 
 
