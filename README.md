@@ -1,6 +1,6 @@
  <h1 align="center">Processo Seletivo IntuitiveCare 🖥️ </h1>
  <div align="center">
-  <img src="https://github.com/user-attachments/assets/2bc4a816-b5d9-4df9-9fdd-875c57402e60" alt="Descrição da imagem">
+  <img src="https://github.com/user-attachments/assets/76ce9559-27d3-44ad-b164-1ac1375b0a3c" alt="Descrição da imagem">
 </div>
 
 
@@ -25,7 +25,9 @@ MySQL<br>
 
 1. TESTE DE WEB SCRAPING 
    
-   ![image](https://github.com/user-attachments/assets/38700ac5-8836-4b28-971d-a2d71a10d0ea)
+   ![image](https://github.com/user-attachments/assets/c092d985-bc03-46b6-a7f9-482dc4736c39)
+
+
   ```
 py dados.py
 ```
@@ -34,7 +36,8 @@ py web_scraping.py
 ```
    #
 2. TESTE DE TRANSFORMAÇÃO DE DADOS
-   ![image](https://github.com/user-attachments/assets/55a79046-8edf-4693-8857-71ed50c41df4)
+  ![image](https://github.com/user-attachments/assets/fbc763a1-cb4b-4d78-9998-4594ecfe23d5)
+
 
 Instalação:<br>
 pip install pdfplumber<br>
@@ -46,12 +49,15 @@ py teste_anexo.py
 ```
 #
 3. TESTE DE BANCO DE DADOS
-![image](https://github.com/user-attachments/assets/b6a71f4e-151a-4dd1-842b-e53bfcb44cc0) <br>
+![image](https://github.com/user-attachments/assets/0a8a89e5-a4ec-43a0-a359-ae13b2ddbd43)
+ <br>
 Foram utilizados os dados na própria plataforma MySQL, pórem deixei como arquivo VSC para também caso queira ter acesso a plataforma IDE.
 
 #
 4. TESTE DE API
-![image](https://github.com/user-attachments/assets/002f9426-5f15-43b9-aba6-04ee68cc3862)
+![image](https://github.com/user-attachments/assets/8ed576a1-ea54-4d75-b9c7-eb45c851d904)
+
+
 (Neste teste foram ultilizados React.js e Javascript, porém não foi concluído para a amostra dos resultados de busca textual na lista de cadastros de operadoras, a busca para a API foi com um arquivo CSV.)
  ```
 npm install
