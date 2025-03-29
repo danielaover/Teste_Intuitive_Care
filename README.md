@@ -1,4 +1,9 @@
  <h1 align="center">Processo Seletivo IntuitiveCare 🖥️ </h1>
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/2bc4a816-b5d9-4df9-9fdd-875c57402e60" alt="Descrição da imagem">
+</div>
+
+
 
 <p>🚀 O desafio proposto foi: </p>
 
