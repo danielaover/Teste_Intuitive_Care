@@ -15,7 +15,8 @@
 #
 <p>🚀 As seguintes ferramentas usadas foram: </p>
 Python<br>
-Vue.js<br>
+React<br>
+Javascript<br>
 Postman<br>
 MySQL<br>
 
@@ -50,6 +51,27 @@ Foram utilizados os dados na própria plataforma MySQL, pórem deixei como arqui
 
 #
 4. TESTE DE API
+![image](https://github.com/user-attachments/assets/002f9426-5f15-43b9-aba6-04ee68cc3862)
+(Neste teste foram ultilizados React.js e Javascript, porém não foi concluído para a amostra dos resultados de busca textual na lista de cadastros de operadoras, a busca para a API foi com um arquivo CSV.)
+ ```
+npm install
+```
+ ```
+npm start
+```
+ ```
+node server/server.js
+```
+#
+
+<h1>Fatores fundamentais para o andamento do projeto e da prática.</h1>
+
+1. Lógica de programação.<br>
+2. Organização de estrutura.<br>
+3. Analisar os códigos e ver os requisitos fundamentais para a aplicação.<br>
+4. Testes e busca de uma aplicação boa.<br>
+
+A importância na busca dos códigos e a implementação para a importação e exportação ser eficaz na hora da execução faz diferença.
 
 
 
