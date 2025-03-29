@@ -46,6 +46,7 @@ py teste_anexo.py
 #
 3. TESTE DE BANCO DE DADOS
 #
+Foram utilizados os dados na própria plataforma MySQL, pórem deixei como arquivo vsc para também caso queira ter acesso a plataforma IDE.
 
 
 
