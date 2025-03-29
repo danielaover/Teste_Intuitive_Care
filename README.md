@@ -17,6 +17,7 @@
 Python<br>
 Vue.js<br>
 Postman<br>
+MySQL<br>
 
 #
 
