@@ -29,6 +29,11 @@ py web_scraping.py
 2. TESTE DE TRANSFORMAÇÃO DE DADOS
    ![image](https://github.com/user-attachments/assets/55a79046-8edf-4693-8857-71ed50c41df4)
 
+Instalação:<br>
+pip install pdfplumber<br>
+pip install requests<br>
+pip install pandas<br>
+
  ```
 py teste_anexo.py
 ```
