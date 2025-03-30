@@ -48,7 +48,7 @@ pip install pandas<br>
 py teste_anexo.py
 ```
 #
-3. TESTE DE BANCO DE DADOS
+3. TESTE DE BANCO DE DADOS <br>
 ![image](https://github.com/user-attachments/assets/0a8a89e5-a4ec-43a0-a359-ae13b2ddbd43)
  <br>
 Foram utilizados os dados na própria plataforma MySQL, pórem deixei como arquivo VSC para também caso queira ter acesso a plataforma IDE.
