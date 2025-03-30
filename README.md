@@ -23,7 +23,7 @@ MySQL<br>
 #
 
 
-1. TESTE DE WEB SCRAPING 
+1. TESTE DE WEB SCRAPING <br>
    
    ![image](https://github.com/user-attachments/assets/c092d985-bc03-46b6-a7f9-482dc4736c39)
 
@@ -35,7 +35,7 @@ py dados.py
 py web_scraping.py
 ```
    #
-2. TESTE DE TRANSFORMAÇÃO DE DADOS
+2. TESTE DE TRANSFORMAÇÃO DE DADOS<br>
   ![image](https://github.com/user-attachments/assets/fbc763a1-cb4b-4d78-9998-4594ecfe23d5)
 
 
